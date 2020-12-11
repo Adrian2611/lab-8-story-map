@@ -6,7 +6,7 @@ Storymap Logo,media/terrorist.png,Path to a logo image,
 Google Analytics Tracking ID,,Eg UA-5488840-29,
 Map Settings,,"For help, see tutorial in HandsOnDataViz.org  -->",https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html
 Basemap Tiles,CartoDB.Positron,Drop-down menu for background basemap tiles,https://leaflet-extras.github.io/leaflet-providers/preview/
-Zoom Controls,topleft,,
+Zoom Controls,topright,,
 Narrative Background Color,,,
 Narrative Text Color,,,
 Narrative Link Color,,,
